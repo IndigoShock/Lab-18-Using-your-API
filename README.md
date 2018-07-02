@@ -9,7 +9,7 @@ This is a blank web application that consumes an API.
 
 3. Usage
 a. First install appropriate programs. Refer to Step 5 in this README.
-b. Upon start up, the user will be shown a "Hello World"
+b. Upon start up, the user will be shown a "Hello World."
 c. It is supposed to consume an API created in Lab17.
 
 Visual
